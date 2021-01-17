@@ -1,0 +1,1 @@
+pkg install ncurses-utils && tput setab 2 && tput setaf 1 && echo Взлом консоли && sleep 1 && echo Взлом консоли. && sleep 2 && echo Взлом консоли.. && sleep 3 && echo Взлом консоли... && sleep 1 && echo Взлом консоли && clear && echo Взлом прошел успешно! && tput setaf 0 && echo Живи с этим... && sleep 183575153753
